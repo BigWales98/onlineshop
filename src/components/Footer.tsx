@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-wrap text-left lg:text-left">
           <div className="w-full lg:w-6/12 px-4">
             <h4 className="text-3xl font-semibold text-blueGray-700">
-              Final Team Market
+              Old Emporium
             </h4>
             <h5 className="text-lg mt-0 mb-2 text-blueGray-600">
               좋은 상품을 합리적인 가격에 만나보세요!
